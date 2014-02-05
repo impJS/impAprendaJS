@@ -38,4 +38,4 @@ Por enquanto é isso, espero que você tenha captado o espiríto da coisa. Caso 
 
 As inscrições serão necessárias para termos em mente quantas pessoas vão participar do grupo e para organizarmos o sistema de medalhas. Para se inscrever, faça um comentário na issue [Inscrições](https://github.com/impJS/aprenda-js/issues/1), deixando seu nome e se desejar uma breve apresentação sobre você.
 
-As inscrições começam hoje, Terça-Feira, **04/02/2014** e terminam na Terça-Feira, dia **11/02/2014**.
+As inscrições começam em **04/02/2014** e vão até **11/02/2014**.

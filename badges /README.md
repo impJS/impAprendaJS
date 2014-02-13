@@ -1,0 +1,1 @@
+# Relação de badges

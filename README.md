@@ -18,12 +18,6 @@ Os membros poderão interagir uns com os outros através do sistema de _issues_ 
 
 Sendo assim, semanalmente, cada membro poderá se sentir a vontade para comentar o que aprendeu, e também ajudando outros membros que estiverem com dificuldades. Manter essa participação regular será de grande ajuda para todos, pois um pode aprender com o outro, além de servir como um incentivo extra para continuar firme com os estudos.
 
-## Badges! Sim, teremos badges!
-
-Já pensou em ganhar badges (medalhas) conforme avança em seus estudos? Pois aqui teremos medalhas para recompensar os esforços de todos semanalmente. Ao completar cada semana do roteiro, os membros inscritos serão premiados com badges exclusivos.
-
-Teremos uma página, onde iremos listar os nomes dos membros ativos com suas respectivas medalhas conquistadas. Além disso, todos que completarem o roteiro, receberão o título de "tutor", e poderão atuar como tutores para os estudantes de futuras turmas. (Sim, pretendemos criar novas turmas de estudo futuramente). Em breve divulgaremos mais informações sobre isso. Fique atento. =]
-
 ## Hangouts e reuniões presenciais
 
 A Internet facilita muito nossa vida, e podemos fazer muita coisa online, praticamente tudo. Mas as vezes ter um contato presencial com colegas, é a melhor opção. Bom, visto que nem todos do grupo moram perto um do outro, eventualmente poderemos marcar Hangouts para discutir os assuntos da semana, comentar o que cada um está achando do roteiro, etc. Ah, se você mora perto de algum colega do grupo e deseja marcar reuniões presenciais, fique a vontade! Só não esqueça de compartilhar o que conversaram com a gente depois.

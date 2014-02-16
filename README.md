@@ -12,7 +12,7 @@ Durante 8 semanas, todos os inscritos no grupo irão desenvolver suas habilidade
 
 O roteiro tem duração de 8 semanas. Temos algumas páginas na [Wiki desse repositório](https://github.com/impJS/impAprendaJS/wiki) com mais detalhes. Na página principal da Wiki, temos: um resumo básico sobre o grupo, uma lista de pré-requisitos e materiais necessários para acompanhar o roteiro e um índice de tópicos para cada semana.
 
-Cada semana terá sua página específica, contendo uma "lista de tarefas" para a semana em questão. Dessa forma, você poderá ver quais são suas "missões" pra a semana, e se organizar de forma fácil.
+Cada semana terá sua página específica, contendo uma "lista de tarefas" para a semana em questão. Dessa forma, você poderá ver quais são suas "missões" para a semana, e se organizar de forma fácil.
 
 Os membros poderão interagir uns com os outros através do sistema de _issues_ no repositório do grupo. Teremos _labels_ específicas para cada semana do roteiro. Cada membro deverá fazer **pelo menos 2 comentários** em cada semana, sendo: pelo menos 1 comentário compartilhando algo que aprendeu e achou interessante ou algo que não entendeu muito bem, ou mostrando a solução desenvolvida para um desafio proposto e 1 comentário dizendo em que dia você concluiu as tarefas daquela semana.
 
